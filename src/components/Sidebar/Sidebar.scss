@@ -1,3 +1,25 @@
+.ln {
+  color: red;
+}
+
 .active {
   border-left: 5px #FAC040 solid;
+}
+
+.rohan {
+  color: blue;
+}
+
+
+
+.ln {
+  color: red;
+}
+
+
+.box-left {
+  display: flex !important;
+  align-items: left !important;
+  align-items: center;
+  justify-content: left !important;
 }

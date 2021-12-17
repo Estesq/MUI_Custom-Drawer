@@ -1,0 +1,24 @@
+.custom-button-1,
+.custom-button-2 {
+  border-radius: 2.5rem !important;
+  border: none !important;
+  padding: 5px 40px !important;
+}
+
+.custom-button-2 {
+  margin-left: -20px !important;
+}
+
+.Mui-selected {
+  color: white !important;
+  background-color: yellow !important;
+}
+
+.custom-button-1:hover,
+.custom-button-2:hover {
+  background-color: inherit !important;
+}
+
+.Mui-selected:hover {
+  background-color: yellow !important;
+}
