@@ -1,0 +1,40 @@
+.rounded {
+  border-radius: 1.5rem;
+}
+
+dic {
+  position: relative !important;
+}
+av {
+  height: 100% !important;
+  width: 100% !important;
+  position: absolute !important;
+  top: 0px !important;
+  transition: all 1s ease-out !important;
+  transform: rotate(5deg) !important;
+}
+
+aw {
+  width: 50px !important;
+  height: 50px !important;
+  background: #c7c9cb !important;
+  display: block !important;
+  margin: 0 auto !important;
+  border-radius: 30px !important;
+  position: relative !important;
+  top: -11px !important;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.14) !important;
+}
+
+qw {
+  color: #fff !important;
+  display: block !important;
+  transform: rotate(-5deg) !important;
+  width: 100% !important;
+  height: 100% !important;
+  font-size: 28px !important;
+  font-weight: bold !important;
+  display: flex !important;
+  justify-content: space-around !important;
+  align-items: center !important;
+}
